@@ -12,17 +12,13 @@ h1 {
     color: blueviolet;
     text-align: left;
     font-style: italic;
-  p {
+  p :
     font-family: sans-serif;
-
-  }
+      }
   ul {
     line-height: 40px;
   }
 
-  .test-box {
-    border: 2px solid red;
-    padding: 6px;
-    margin: 20px;
-    background-color: yellow;
+  .hobbies {
+    color: rgb(160, 160, 33);
   }
